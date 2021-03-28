@@ -1,0 +1,5 @@
+/home/sara/Dropbox/epfl/propedeutique/semestre_2/poo/projet/partie1/build/CMakeFiles/rebuild_cache.dir
+/home/sara/Dropbox/epfl/propedeutique/semestre_2/poo/projet/partie1/build/CMakeFiles/vec2dTest.dir
+/home/sara/Dropbox/epfl/propedeutique/semestre_2/poo/projet/partie1/build/CMakeFiles/toricTest.dir
+/home/sara/Dropbox/epfl/propedeutique/semestre_2/poo/projet/partie1/build/CMakeFiles/edit_cache.dir
+/home/sara/Dropbox/epfl/propedeutique/semestre_2/poo/projet/partie1/build/CMakeFiles/application-run.dir
